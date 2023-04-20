@@ -231,3 +231,4 @@ pheatmap(log2(M+1),
          cutree_cols = 2, 
          cutree_rows = 2)
 
+#https://compgenomr.github.io/book/gene-expression-analysis-using-high-throughput-sequencing-technologies.html#tab:GOanalysistable
